@@ -1,0 +1,25 @@
+{
+  "name": "mail2site",
+  "version": "0.1.0",
+  "description": "Match email domain with web-mail login page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cssmagic/mail2site.git"
+  },
+  "keywords": [
+    "email",
+    "domain"
+  ],
+  "author": "cssmagic <cssmagic.cn@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/cssmagic/mail2site",
+  "bugs": {
+    "url": "https://github.com/cssmagic/mail2site/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
